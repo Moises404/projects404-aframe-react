@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Art404/boiler404/master/projects404-aframe-react.png" />
+  <img src="https://raw.githubusercontent.com/Moises404/projects404-aframe-react/master/projects404-aframe-react.png" />
 </p>
 
 # Projects404 A-Frame React
